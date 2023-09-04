@@ -4,8 +4,6 @@
 <img width="1668" alt="Screenshot 2022-07-28 at 13 17 34" src="https://user-images.githubusercontent.com/96617645/181434207-bd5e427b-419b-4401-b505-1ddc6bce2a46.png">
 
 -------------------------------------------------------------------------------------------
-![GitHub stars](https://img.shields.io/github/stars/takatoshilee/Coursera-Machine-Learning-Specialization.svg?style=social&label=Stars&maxAge=2592000)
-![GitHub forks](https://img.shields.io/github/forks/takatoshilee/Coursera-Machine-Learning-Specialization.svg?style=social&label=Forks&maxAge=2592000)
 
 # [Machine Learning Specialization](https://www.coursera.org/specializations/machine-learning-introduction?#instructors)
 *This Repository Contains Solution to the Assignments of the Machine Learning Specialization from deeplearning.ai on Coursera Taught by 
