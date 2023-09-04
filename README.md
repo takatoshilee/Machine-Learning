@@ -76,10 +76,10 @@ In the third course of the Machine Learning Specialization, you will:
 
 ## Certificate
 
-1. [Machine Learning Specialization](https://github.com/takatoshilee/Coursera-Machine-Learning-Specialization/blob/main/Certificates/Machine%20Learning.pdf)
-2. [Supervised Machine Learning: Regression and Classification](https://github.com/takatoshilee/Coursera-Machine-Learning-Specialization/blob/main/Certificates/Supervised%20Machine%20Learning-%20Regression%20and%20Classification.pdf)
-3. [Advanced Learning Algorithms](https://github.com/takatoshilee/Coursera-Machine-Learning-Specialization/blob/main/Certificates/Advanced%20Learning%20Algorithms.pdf)
-4. [Unsupervised Learning, Recommenders, Reinforcement Learning](https://github.com/takatoshilee/Coursera-Machine-Learning-Specialization/blob/main/Certificates/Unsupervised%20Learning%2C%20Recommenders%2C%20Reinforcement%20Learning.pdf)
+1. [Machine Learning Specialization](https://github.com/takatoshilee/Machine-Learning/blob/main/Certificates/Coursera%2046SAEJVMPSCK.pdf)
+2. [Supervised Machine Learning: Regression and Classification](https://github.com/takatoshilee/Machine-Learning/blob/main/Certificates/Coursera%206RFXEDSWM928.pdf)
+3. [Advanced Learning Algorithms](https://github.com/takatoshilee/Machine-Learning/blob/main/Certificates/Coursera%20746PFDCTCASD.pdf)
+4. [Unsupervised Learning, Recommenders, Reinforcement Learning](https://github.com/takatoshilee/Machine-Learning/blob/main/Certificates/Coursera%20BS5R5KS8VMTP.pdf)
 
 
 --------------------------------------------------------------------------------------------------------------
